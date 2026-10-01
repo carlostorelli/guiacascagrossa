@@ -31,7 +31,7 @@ export async function generateGuidePdf(assessment: Assessment): Promise<Blob> {
     doc.setFont('helvetica', 'normal');
     doc.setTextColor(textMuted[0], textMuted[1], textMuted[2]);
     doc.text(
-      `BRIGADEIRO FIT AI  |  CUPOM DE DESCONTO: BRIGADEIRO  |  Página ${pageNumber} de ${totalPages}`,
+      `GUIA CASCA GROSSA | Marcelo Brigadeiro  |  CUPOM: BRIGADEIRO  |  Página ${pageNumber} de ${totalPages}`,
       margin,
       pageHeight - 10
     );
@@ -434,7 +434,7 @@ export async function generateGuidePdf(assessment: Assessment): Promise<Blob> {
   doc.setFontSize(16);
   doc.setFont('helvetica', 'bold');
   doc.setTextColor(neonGreen[0], neonGreen[1], neonGreen[2]);
-  doc.text('BRIGADEIRO FIT AI', margin + 12, 146);
+  doc.text('GUIA CASCA GROSSA | Marcelo Brigadeiro', margin + 12, 146);
 
   doc.setFontSize(11);
   doc.setFont('helvetica', 'normal');

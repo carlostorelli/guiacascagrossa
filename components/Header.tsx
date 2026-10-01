@@ -19,14 +19,11 @@ export function Header() {
           <div>
             <div className="flex items-center gap-1.5">
               <span className="font-black text-lg tracking-tight text-[#F5F7F8]">
-                BRIGADEIRO<span className="text-[#B6FF3B]">.FIT</span>
-              </span>
-              <span className="text-[10px] font-extrabold bg-[#B6FF3B]/10 text-[#B6FF3B] border border-[#B6FF3B]/30 px-1.5 py-0.5 rounded">
-                AI
+                GUIA <span className="text-[#B6FF3B]">CASCA GROSSA</span>
               </span>
             </div>
             <div className="text-[10px] font-semibold text-[#929A9F] tracking-wide uppercase">
-              Assistente de Suplementação
+              Marcelo Brigadeiro • Suplementação
             </div>
           </div>
         </Link>

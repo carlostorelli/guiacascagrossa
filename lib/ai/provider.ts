@@ -218,7 +218,7 @@ export async function personalizeProductReasons(
 
   // AI prompt for personalized explanations
   try {
-    const prompt = `Você é o assistente BRIGADEIRO FIT AI. Personalize as justificativas para cada um dos produtos abaixo com base no perfil do usuário.
+    const prompt = `Você é o assistente do Guia Casca Grossa de Marcelo Brigadeiro. Personalize as justificativas para cada um dos produtos abaixo com base no perfil do usuário.
 IMPORTANTE:
 - Não altere os produtos selecionados.
 - Não altere as instruções de uso.

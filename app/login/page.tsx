@@ -69,7 +69,7 @@ export default function LoginPage() {
               {mode === 'recovery' && 'Recuperar Senha'}
             </h1>
             <p className="text-xs text-[#929A9F]">
-              BRIGADEIRO FIT AI • Assistente Inteligente
+              GUIA CASCA GROSSA • Marcelo Brigadeiro
             </p>
           </div>
 

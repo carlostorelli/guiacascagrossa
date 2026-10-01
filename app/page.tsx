@@ -199,7 +199,7 @@ export default function SinglePageApp() {
               <Dumbbell className="w-4 h-4" />
             </div>
             <span className="font-black text-base tracking-tight text-[#F5F7F8]">
-              BRIGADEIRO<span className="text-[#B6FF3B]">.FIT</span>
+              GUIA <span className="text-[#B6FF3B]">CASCA GROSSA</span>
             </span>
           </div>
 
@@ -486,7 +486,7 @@ export default function SinglePageApp() {
       {/* Minimal Footer */}
       <footer className="border-t border-[#292F33] py-6 text-center text-xs text-[#929A9F]">
         <div className="max-w-4xl mx-auto px-4 flex flex-col sm:flex-row items-center justify-between gap-3">
-          <span>BRIGADEIRO FIT AI • Growth Supplements + Oficial Farma</span>
+          <span>GUIA CASCA GROSSA • Marcelo Brigadeiro • Growth Supplements + Oficial Farma</span>
           <span>Cupom de desconto: <strong className="text-[#B6FF3B] font-mono">BRIGADEIRO</strong></span>
         </div>
       </footer>

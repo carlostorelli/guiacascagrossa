@@ -54,7 +54,7 @@ export default function ChatPage() {
   >([
     {
       sender: 'ai',
-      text: 'Olá! Sou o assistente BRIGADEIRO FIT AI. Vamos montar seu guia personalizado de suplementação a partir do catálogo verificado. Qual é o principal resultado que você está buscando?',
+      text: 'Olá! Sou o assistente do Guia Casca Grossa de Marcelo Brigadeiro. Vamos montar seu plano personalizado de suplementação a partir do catálogo oficial. Qual é o principal resultado que você está buscando?',
       time: 'Agora',
     },
   ]);

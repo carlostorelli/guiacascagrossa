@@ -15,7 +15,7 @@ export function Footer() {
                 <Dumbbell className="w-4 h-4 text-[#B6FF3B]" />
               </div>
               <span className="font-black text-lg tracking-tight text-[#F5F7F8]">
-                BRIGADEIRO<span className="text-[#B6FF3B]">.FIT</span>
+                GUIA <span className="text-[#B6FF3B]">CASCA GROSSA</span>
               </span>
             </div>
             <p className="text-sm text-[#929A9F] max-w-md leading-relaxed">
@@ -89,7 +89,7 @@ export function Footer() {
 
         {/* Bottom line */}
         <div className="pt-4 border-t border-[#181C1F] flex flex-col sm:flex-row items-center justify-between gap-4 text-xs text-[#929A9F]">
-          <div>© {new Date().getFullYear()} BRIGADEIRO FIT AI. Todos os direitos reservados.</div>
+          <div>© {new Date().getFullYear()} GUIA CASCA GROSSA • Marcelo Brigadeiro. Todos os direitos reservados.</div>
           <div className="flex items-center gap-1 text-[#929A9F]">
             <HeartHandshake className="w-3.5 h-3.5 text-[#B6FF3B]" />
             <span>Foco em Saúde, Performance e Transparência</span>
